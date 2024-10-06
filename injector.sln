@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "injector", "injector\injector.csproj", "{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		injector_d_86|Any CPU = injector_d_86|Any CPU
+		injector_d_86|x64 = injector_d_86|x64
+		injector_d_86|x86 = injector_d_86|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|x64.ActiveCfg = Debug|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|x64.Build.0 = Debug|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|x86.ActiveCfg = Debug|x86
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Debug|x86.Build.0 = Debug|x86
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|Any CPU.ActiveCfg = injector_d_86|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|Any CPU.Build.0 = injector_d_86|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|x64.ActiveCfg = injector_d_86|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|x64.Build.0 = injector_d_86|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|x86.ActiveCfg = injector_d_86|x86
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.injector_d_86|x86.Build.0 = injector_d_86|x86
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|x64.ActiveCfg = Release|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|x64.Build.0 = Release|x64
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|x86.ActiveCfg = Release|x86
+		{D37300AF-6C8C-4DDF-9DD5-07981EDAE51A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82EF8B48-FD8D-49C2-9145-531916013205}
+	EndGlobalSection
+EndGlobal
